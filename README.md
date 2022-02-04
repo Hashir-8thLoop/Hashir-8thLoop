@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hashcodepk
+- 👋 Hi, I’m [Hashir](https://github.com/Hashcodepk)
 
 <!---
 Hashir-8thLoop/Hashir-8thLoop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
